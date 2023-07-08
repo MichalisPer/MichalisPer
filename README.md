@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-Welcome to my GitHub profile! I'm Michalis Perikleous, currently working as a QA Automation Engineer. Below you'll find an overview of my projects and contributions. Feel free to explore and connect with me!
+Welcome to my GitHub profile! I'm **Michalis Perikleous**, currently working as a **QA Automation Engineer**. Below you'll find an overview of my projects and contributions. Feel free to explore and connect with me!
 
 ## 🔭 Projects
 
